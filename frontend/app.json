@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "RealTimeChat",
+    "slug": "realtime-chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#667eea"
+    },
+    "web": {
+      "bundler": "webpack"
+    }
+  }
+}
